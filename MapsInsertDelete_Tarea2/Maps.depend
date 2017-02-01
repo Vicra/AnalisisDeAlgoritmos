@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1485374536 source:/home/turupawn/Clases/Analisis/MapsInsertDelete/Map.cpp
+	"Map.h"
+
+1485373072 /home/turupawn/Clases/Analisis/MapsInsertDelete/Map.h
+	<iostream>
+	<map>
+	<vector>
+
+1485374482 source:/home/turupawn/Clases/Analisis/MapsInsertDelete/Test.cpp
+	"Test.h"
+	"Map.h"
+
+1485115078 /home/turupawn/Clases/Analisis/MapsInsertDelete/Test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1485385316 source:/home/turupawn/Clases/Analisis/MapsInsertDelete/main.cpp
+	"Test.h"
+	<iostream>
+	<map>
+	"Map.h"
+
+1485823745 source:c:\users\vicra\documents\analisisdealgoritmos\mapsinsertdelete\map.cpp
+	"Map.h"
+
+1485394506 c:\users\vicra\documents\analisisdealgoritmos\mapsinsertdelete\map.h
+	<iostream>
+	<map>
+	<vector>
+
+1485374482 source:c:\users\vicra\documents\analisisdealgoritmos\mapsinsertdelete\test.cpp
+	"Test.h"
+	"Map.h"
+
+1485115078 c:\users\vicra\documents\analisisdealgoritmos\mapsinsertdelete\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1485396328 source:c:\users\vicra\documents\analisisdealgoritmos\mapsinsertdelete\main.cpp
+	"Test.h"
+	<iostream>
+	<map>
+	"Map.h"
+
+1485396328 source:c:\users\vicra\documents\analisisdealgoritmos\github\mapsinsertdelete\main.cpp
+	"Test.h"
+	<iostream>
+	<map>
+	"Map.h"
+
+1485115078 c:\users\vicra\documents\analisisdealgoritmos\github\mapsinsertdelete\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1485394506 c:\users\vicra\documents\analisisdealgoritmos\github\mapsinsertdelete\map.h
+	<iostream>
+	<map>
+	<vector>
+
+1485823745 source:c:\users\vicra\documents\analisisdealgoritmos\github\mapsinsertdelete\map.cpp
+	"Map.h"
+
+1485374482 source:c:\users\vicra\documents\analisisdealgoritmos\github\mapsinsertdelete\test.cpp
+	"Test.h"
+	"Map.h"
+
