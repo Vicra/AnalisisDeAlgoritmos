@@ -48,7 +48,7 @@ int Map::get(string key)
 
     if(array_key[pos] == "")
     {
-        return-1;
+        return -1;
     }
     return array_value[pos];
 }

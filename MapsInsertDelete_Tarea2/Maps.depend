@@ -74,7 +74,7 @@
 	"Test.h"
 	"Map.h"
 
-1485823745 source:c:\users\vicra\documents\analisisdealgoritmos\tareas\mapsinsertdelete_tarea2\map.cpp
+1486084860 source:c:\users\vicra\documents\analisisdealgoritmos\tareas\mapsinsertdelete_tarea2\map.cpp
 	"Map.h"
 
 1485394506 c:\users\vicra\documents\analisisdealgoritmos\tareas\mapsinsertdelete_tarea2\map.h
@@ -93,7 +93,7 @@
 	<stdlib.h>
 	<time.h>
 
-1486000148 source:c:\users\vicra\documents\analisisdealgoritmos\tareas\mapsinsertdelete_tarea2\main.cpp
+1486084908 source:c:\users\vicra\documents\analisisdealgoritmos\tareas\mapsinsertdelete_tarea2\main.cpp
 	"Test.h"
 	<iostream>
 	<map>
