@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1487872362 source:c:\users\vicra\documents\analisisdealgoritmos\tareas\replace\test.cpp
+	"Test.h"
+
+1487872359 c:\users\vicra\documents\analisisdealgoritmos\tareas\replace\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1487897936 source:c:\users\vicra\documents\analisisdealgoritmos\tareas\replace\main.cpp
+	"Test.h"
+	<iostream>
+	<vector>
+

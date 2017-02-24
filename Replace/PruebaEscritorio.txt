@@ -1,0 +1,38 @@
+10,40,30,90,80,200,50,100
+
+Valor a cambiar : 20
+Nuevo Valor :200
+
+arbol
+             10
+           /     \
+	    40         20
+	   /   \      /  \
+	90     80    30   50
+	/
+  100
+
+Hacer el cambio de 20 por 200
+
+** PROCESO DE REORDENACION **
+Validar por cada uno de los nodos raiz, si el padre es mayor que
+el izquierdo o mayor que el derecho
+
+             10
+           /     \
+	    40         200
+	   /   \      /  \
+	90     80    30   50
+	/
+  100
+
+En este caso 200 > 30 entonces entra a validar los hijos
+si IZQ es cambiarlo con el SUPER
+
+              10
+           /     \
+	    40         30
+	   /   \      /  \
+	90     80    200   50
+	/
+  100
