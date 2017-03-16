@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1488917862 source:c:\users\vicra\documents\analisisdealgoritmos\tareas\kruskalmst_tarea5\edge.cpp
+	"Edge.h"
+
+1488917862 c:\users\vicra\documents\analisisdealgoritmos\tareas\kruskalmst_tarea5\edge.h
+
+1488917862 source:c:\users\vicra\documents\analisisdealgoritmos\tareas\kruskalmst_tarea5\test.cpp
+	"Test.h"
+
+1488917862 c:\users\vicra\documents\analisisdealgoritmos\tareas\kruskalmst_tarea5\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<map>
+	<queue>
+	<list>
+	"Edge.h"
+
