@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1490068584 source:c:\users\vicra\documents\analisisdealgoritmos\tareas\bellman-ford-shortest-path_tarea6\src\edge.cpp
+	"Edge.h"
+
+1490068686 c:\users\vicra\documents\analisisdealgoritmos\tareas\bellman-ford-shortest-path_tarea6\include\edge.h
+
+1489445490 source:c:\users\vicra\documents\analisisdealgoritmos\tareas\bellman-ford-shortest-path_tarea6\test.cpp
+	"Test.h"
+
+1489445490 c:\users\vicra\documents\analisisdealgoritmos\tareas\bellman-ford-shortest-path_tarea6\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
